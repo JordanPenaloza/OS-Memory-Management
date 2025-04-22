@@ -1,3 +1,7 @@
+// memory_management.c by Jordan Penaloza for CSC139
+// Usage: gcc .\memory_management.c -o memsim
+// ./memsim
+// Make sure input.txt and memsim are in the same directory
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
